@@ -1,0 +1,57 @@
+{
+  "name": "⋆ Laang Ubot ⋆",
+  "description": "[LaangUbot] Userbot Hanya Untuk To The Point Aja",
+  "logo": "https://telegra.ph/file/e9777d3f9952dfa294845.jpg",
+  "keywords": ["telegram", "userbot", "LaangUbot", "pyrogram", "modular", "python"],
+  "repository": "https://github.com/LaangYB/LaangUbot",
+  "stack": "heroku-22",
+  "env": {
+    "API_ID": {
+      "description": "Dapatkan API KEY di » web my.telegram.org Masukkan APP ID Telegram",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Dapatkan API Hash di » web my.telegram.org",
+      "required": true
+    },
+    "STRING_1": {
+      "description": "Dapatkan String Session di Grup » https://t.me/ybtraviss » Lalu ketik /get string",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "Silakan buat bot Anda di https://t.me/BotFather dan masukkan Bot Tokennya",
+      "required": true
+    },
+    "MONGO_URI": {
+      "description": "Dapatkan Link MongoDB di Grup » https://t.me/ybtraviss » Lalu ketik /get link",
+      "required": true
+    },
+    "LOG_CHAT": {
+      "description": "Buat Grup Log Publik Anda dan masukkan https://t.me/MissRose_bot lalu ketik /id",
+      "value": "-100",
+      "required": true
+    },
+    "HEROKU_APP_NAME": {
+      "description": "Nama App Heroku, Nama App yang paling pertama diisi (lihat paling atas)",
+      "required": true
+    },
+    "HEROKU_API_KEY": {
+      "description": "Ambil Heroku API KEY Anda di sini » https://dashboard.heroku.com/account",
+      "required": true
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    }
+  ],
+  "formation": {
+    "ayiin": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  }
+}
