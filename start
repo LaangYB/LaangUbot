@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# Laang - Ubot
+# Copyright (C) 2024 @LaangYB
+#
+# This file is a part of <https://github.com/LaangYB/LaangUbot>
+# Please read the GNU Affero General Public License in
+# <https://www.github.com/LaangYB/LaangUbot/blob/main/LICENSE/>.
+#
+# FROM LaangUbot <https://github.com/LaangYB/LaangUbot>
+# Contact: t.me/ybtraviss & t.me/ybtraviss
+
+# ========================×========================
+#            Jangan Hapus Credit Ngentod
+# ========================×========================
+
+# Run the LaangUbot application using pyLaang
+python3 -m pyLaang
