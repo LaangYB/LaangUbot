@@ -16,8 +16,8 @@ from datetime import datetime
 from fipper import __version__ as fip_ver, Client
 from fipper.types import *
 from config import *
-from pyLaang import CMD_HELP, HOSTED_ON, StartTime, __version__, laang_ver, hndlr
-from pyLaang.assistant import inline
+from pyLnnggg import CMD_HELP, HOSTED_ON, StartTime, __version__, laang_ver, hndlr
+from pyLnnggg.assistant import inline
 from . import *
 
 def help_string() -> str:
