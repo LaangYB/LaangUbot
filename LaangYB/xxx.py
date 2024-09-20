@@ -5,8 +5,8 @@ import urllib
 from fipper import Client
 from fipper.types import Message
 from fipper.errors import ChatSendMediaForbidden
-from pyLaang import BLACKLIST_CHAT, CMD_HELP
-from pyLaang.decorator import Laang
+from pyLang import BLACKLIST_CHAT, CMD_HELP
+from pyLang.decorator import Laang
 
 from . import *
 
