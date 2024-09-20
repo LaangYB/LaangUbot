@@ -3,8 +3,8 @@ from fipper.types import Message
 from random import choice
 from time import sleep
 
-from pyLaang import Laang, CMD_HELP, tgbot
-from pyLaang.pyrogram import eod, eor
+from pyLnnggg import Laang, CMD_HELP, tgbot
+from pyLnnggg.pyrogram import eod, eor
 
 from . import hndlr, yins
 
