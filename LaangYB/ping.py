@@ -1,8 +1,8 @@
 from fipper import Client
 from fipper.types import Message
-from pyLaang import CMD_HELP, tgbot
-from pyLaang.decorator import Laang
-from pyLaang.pyrogram import eod
+from pyLnnggg import CMD_HELP, tgbot
+from pyLnnggg.decorator import Laang
+from pyLnnggg.pyrogram import eod
 
 from . import yins
 
