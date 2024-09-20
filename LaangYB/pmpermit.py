@@ -2,14 +2,14 @@ import asyncio
 from fipper import Client, filters
 from fipper.enums import ChatType
 from fipper.types import Message
-from pyLaang import CMD_HELP, DEVS, tgbot
-from pyLaang.dB.pmpermit import (
+from pyLnnggg import CMD_HELP, DEVS, tgbot
+from pyLnnggg.dB.pmpermit import (
     approve_pmpermit,
     disapprove_pmpermit,
     is_pmpermit_approved,
 )
-from pyLaang.pyrogram import eor
-from pyLaang.decorator import Laang, listen
+from pyLnnggg.pyrogram import eor
+from pyLnnggg.decorator import Laang, listen
 from config import Var
 
 from . import yins
