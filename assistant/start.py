@@ -14,8 +14,8 @@
 
 from fipper import filters
 from fipper.types import InlineKeyboardButton, InlineKeyboardMarkup
-from pyLaang import __version__, tgbot
-from pyLaang.assistant import callback
+from pyLnnggg import __version__, tgbot
+from pyLnnggg.assistant import callback
 
 START = """
 ❏ Haii {}
