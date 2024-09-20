@@ -1,7 +1,7 @@
 from fipper import Client
 from fipper.types import Message
 
-from pyLaang import Laang, CMD_HELP
+from pyLnnggg import Laang, CMD_HELP
 
 from . import yins
 
