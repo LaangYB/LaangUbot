@@ -1,6 +1,6 @@
 from fipper.types import Message
-from pyLaang import Laang, CMD_HELP
-from pyLaang.Clients.pytgcalls import VcMusic
+from pyLnnggg import Laang, CMD_HELP
+from pyLnnggg.Clients.pytgcalls import VcMusic
 from . import yins
 
 @Laang(["play"], langs=True)
