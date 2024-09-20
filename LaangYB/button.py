@@ -4,9 +4,9 @@ import re
 from fipper import Client
 from fipper.enums import ParseMode
 from fipper.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
-from pyLaang import CMD_HELP, tgbot
-from pyLaang.decorator import Laang
-from pyLaang.pyrogram import eod
+from pyLnnggg import CMD_HELP, tgbot
+from pyLnnggg.decorator import Laang
+from pyLnnggg.pyrogram import eod
 
 from . import *
 
