@@ -38,4 +38,4 @@ tracemoepy==4.1
 opencv-python-headless==4.10.0.84
 urllib3==2.2.2
 # uvloop==0.20.0
-pyLaaang==0.1.0
+pyLnnggg==0.1.0
