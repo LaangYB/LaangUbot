@@ -1,8 +1,8 @@
 from fipper.types import Message
 
-from pyLaang import CMD_HELP
-from pyLaang.dB.variable import del_var, get_var, set_var
-from pyLaang.decorator import Laang
+from pyLnnggg import CMD_HELP
+from pyLnnggg.dB.variable import del_var, get_var, set_var
+from pyLnnggg.decorator import Laang
 from . import yins
 
 @Laang(["set_var"], langs=True)
