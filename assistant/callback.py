@@ -25,9 +25,9 @@ from git.exc import GitCommandError
 
 from config import *
 
-from pyLaang import CMD_HELP, HOSTED_ON, laang_ver
-from pyLaang.assistant import callback
-from pyLaang.dB.langs import set_lang
+from pyLnnggg import CMD_HELP, HOSTED_ON, laang_ver
+from pyLnnggg.assistant import callback
+from pyLnnggg.dB.langs import set_lang
 from random import choice
 
 from . import *
