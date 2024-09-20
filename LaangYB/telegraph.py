@@ -4,7 +4,7 @@ from fipper import Client
 from fipper.types import Message
 from telegraph import Telegraph, exceptions, upload_file
 
-from pyLaang import Laang, CMD_HELP
+from pyLnnggg import Laang, CMD_HELP
 
 from . import yins
 
