@@ -3,8 +3,8 @@ from fipper import Client, enums
 from fipper.errors import ChatAdminRequired, UserCreator
 from fipper.types import ChatPermissions, ChatPrivileges, Message
 
-from pyLaang import Laang, CMD_HELP, DEVS, tgbot
-from pyLaang.pyrogram import eor
+from pyLnnggg import Laang, CMD_HELP, DEVS, tgbot
+from pyLnnggg.pyrogram import eor
 
 from . import yins  # Assuming `yins` is a module you have
 
