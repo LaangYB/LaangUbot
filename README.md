@@ -42,7 +42,7 @@ Kalo kesering spam ya bakal kedeak gblk
  
  • pip install -r requirements.txt
 
- • cp sample.env .env
+ • cp config.env .env
 
  • nano .env
   - isi vars
