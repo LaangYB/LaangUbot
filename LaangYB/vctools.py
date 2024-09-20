@@ -1,7 +1,7 @@
 from time import sleep
 from contextlib import suppress
-from pyLaang import Laang, CMD_HELP, Yins
-from pyLaang.types import Client, Message
+from pyLang import Laang, CMD_HELP, Yins
+from pyLang.types import Client, Message
 from . import yins
 
 @Laang(['startvc'], group_only=True, langs=True)
