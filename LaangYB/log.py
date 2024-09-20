@@ -1,8 +1,8 @@
 from fipper import filters
 from fipper.types import Message
 
-from pyLaang import Laang, CMD_HELP, listen
-from pyLaang.dB.logdb import (
+from pyLnnggg import Laang, CMD_HELP, listen
+from pyLnnggg.dB.logdb import (
     add_grup_off, add_grup_on, add_pm_off, add_pm_on,
     is_grup_logs, is_pm_logs
 )
