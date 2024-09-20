@@ -12,8 +12,8 @@ from fipper.raw.functions.messages import GetStickerSet
 from fipper.raw.types import InputStickerSetShortName
 from fipper.types import Message
 
-from pyLaang import Laang, CMD_HELP
-from pyLaang.pyrogram import eor
+from pyLnnggg import Laang, CMD_HELP
+from pyLnnggg.pyrogram import eor
 
 from . import yins
 
