@@ -16,9 +16,9 @@ from fipper import Client, __version__ as fip_ver
 from fipper.types import Message
 from platform import python_version
 
-from pyLaang import __version__, laang_ver
-from pyLaang import CMD_HELP, HOSTED_ON, tgbot
-from pyLaang.decorator import Laang
+from pyLnnggg import __version__, laang_ver
+from pyLnnggg import CMD_HELP, HOSTED_ON, tgbot
+from pyLnnggg.decorator import Laang
 
 from . import yins
 
