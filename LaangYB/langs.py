@@ -1,8 +1,8 @@
 from fipper import Client
 from fipper.types import Message
 
-from pyLaang import Laang, CMD_HELP
-from pyLaang.Clients.client import tgbot
+from pyLnnggg import Laang, CMD_HELP
+from pyLnnggg.Clients.client import tgbot
 
 from . import yins
 
