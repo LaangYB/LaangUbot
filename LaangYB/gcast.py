@@ -19,8 +19,8 @@ from fipper import Client, enums
 from fipper.errors import FloodWait
 from fipper.types import Message
 
-from pyLaang import Laang, CMD_HELP, DEVS, GCAST_BLACKLIST
-from pyLaang.dB.blacklistgcast import add_blacklist_gcast, blacklisted, is_blacklist_gcast, remove_blacklist_gcast
+from pyLnnggg import Laang, CMD_HELP, DEVS, GCAST_BLACKLIST
+from pyLnnggg.dB.blacklistgcast import add_blacklist_gcast, blacklisted, is_blacklist_gcast, remove_blacklist_gcast
 
 from . import yins
 
