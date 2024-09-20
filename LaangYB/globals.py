@@ -1,9 +1,9 @@
 from fipper import Client, filters
 from fipper.types import Message
-from pyLaang import Laang, CMD_HELP, OWNER_ID
-from pyLaang.pyrogram import eor
-from pyLaang.dB.gban import add_gbanned, gbanned_users, is_gbanned, remove_gbanned
-from pyLaang.decorator import listen
+from pyLnnggg import Laang, CMD_HELP, OWNER_ID
+from pyLnnggg.pyrogram import eor
+from pyLnnggg.dB.gban import add_gbanned, gbanned_users, is_gbanned, remove_gbanned
+from pyLnnggg.decorator import listen
 
 from . import yins
 
