@@ -14,7 +14,7 @@
 
 from git import Repo
 
-from pyLaang import Laang, CMD_HELP, tgbot
+from pyLnnggg import Laang, CMD_HELP, tgbot
 from . import yins
 
 @Laang(["update"], langs=True)
