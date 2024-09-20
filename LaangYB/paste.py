@@ -3,8 +3,8 @@ import re
 import aiofiles
 from fipper import Client
 from fipper.types import Message
-from pyLaang import Laang, CMD_HELP, tgbot
-from pyLaang.pyrogram import eor
+from pyLnnggg import Laang, CMD_HELP, tgbot
+from pyLnnggg.pyrogram import eor
 
 from . import yins
 
