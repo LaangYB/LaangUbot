@@ -12,8 +12,8 @@ from fipper import Client
 from fipper.enums import ChatType
 from fipper.types import Message
 
-from pyLaang import Laang, CMD_HELP, OWNER_ID
-from pyLaang.pyrogram import eor
+from pyLnnggg import Laang, CMD_HELP, OWNER_ID
+from pyLnnggg.pyrogram import eor
 
 from . import yins
 
