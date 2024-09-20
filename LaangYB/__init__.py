@@ -23,10 +23,10 @@ from fipper.types import Message
 
 from config import *
 from git import Repo
-from pyLaang import PyrogramYB
-from pyLaang.Clients import *
-from pyLaang.config import Var
-from pyLaang.pyrogram import eod, eor
+from pyLnnggg import PyrogramYB
+from pyLnnggg.Clients import *
+from pyLnnggg.config import Var
+from pyLnnggg.pyrogram import eod, eor
 
 # Initialize variables and constants
 flood = {}
