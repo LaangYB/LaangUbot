@@ -17,8 +17,8 @@ from fipper import Client
 from fipper.errors import PeerIdInvalid
 from fipper.types import Message
 
-from pyLaang import Laang
-from pyLaang.pyrogram import eod, eor
+from pyLnnggg import Laang
+from pyLnnggg.pyrogram import eod, eor
 
 from . import yins
 
