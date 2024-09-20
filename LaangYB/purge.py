@@ -1,7 +1,7 @@
 from fipper import Client
 from fipper.types import Message
-from pyLaang import Laang, CMD_HELP
-from pyLaang.pyrogram import eod, eor
+from pyLnnggg import Laang, CMD_HELP
+from pyLnnggg.pyrogram import eod, eor
 from . import yins
 
 @Laang(["purge"], langs=True)
